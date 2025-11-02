@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <iframe src="https://assets.pinterest.com/ext/embed.html?id=60939401204524479" height="294" width="345" frameborder="0" scrolling="no" ></iframe>
+  <img height="234" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFkYzFjcGc0dXUwMmUwOG9qdDl1a3VpdTVrbWo3ZWxyc2oyNjM2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYuxp3Rjlrka8mY/giphy.gif"  />
 </div>
 
 
