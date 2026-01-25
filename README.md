@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">- Name: Alexey.<br>- Age: 20 years old.<br>- Study: Institute of Information Technologies, Sevastopol State University (4 year).<br>- Work: company QS-Systems (7 months).<br>- Position: backend dev.</p>
+<p align="left">- Name: Alexey.<br>- Age: 20 years old.<br>- Study: Institute of Information Technologies, Sevastopol State University.<br>- Work: company QS-Systems.<br>- Position: backend dev.</p>
 
 ###
 
@@ -61,7 +61,7 @@
 
 ###
 
-<p align="left">- Email Sending App (integration with Google API). Technologies: FastAPI, RabbitMQ, Docker, etc.<br>- B2B2C Marketplace platform. Technologies: Next.js, Supabase, Docker, etc.</p>
+<p align="left">- Email Sending App (integration with Google API). Technologies: FastAPI, Kafka, Docker, etc.<br>- B2B2C Marketplace platform. Technologies: Next.js, Supabase, Docker, etc.</p>
 
 ###
 
