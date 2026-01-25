@@ -61,7 +61,7 @@
 
 ###
 
-<p align="left">- Email Sending App (integration with Google API). Technologies: FastAPI, Kafka, Docker, etc.<br>- B2B2C Marketplace platform. Technologies: Next.js, Supabase, Docker, etc.</p>
+<p align="left">- Quicksend (Integration with gmail api to send email campaigns). Technologies: FastAPI, Kafka, Docker, etc.<br>- B2B2C Marketplace platform. Technologies: Next.js, Supabase, Docker, etc.</p>
 
 ###
 
