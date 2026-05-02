@@ -1,9 +1,5 @@
 <br clear="both">
 
-<div align="center">
-  <img height="234" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFkYzFjcGc0dXUwMmUwOG9qdDl1a3VpdTVrbWo3ZWxyc2oyNjM2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYuxp3Rjlrka8mY/giphy.gif"  />
-</div>
-
 
 ###
 
@@ -17,7 +13,7 @@
 
 ###
 
-<p align="left">- Name: Alexey.<br>- Age: 20 years old.<br>- Study: Institute of Information Technologies, Sevastopol State University.<br>- Work: company QS-Systems.<br>- Position: backend dev.</p>
+<p align="left">- Name: Alexey.<br>- Age: 21 years old.<br>- Study: Institute of Information Technologies, Sevastopol State University.<br>- Work: company QS-Systems.<br>- Position: backend dev.</p>
 
 ###
 
@@ -61,8 +57,7 @@
 
 ###
 
-<p align="left">- Quicksend (Integration with gmail api to send email campaigns). Technologies: FastAPI, Kafka, Docker, etc.<br>- B2B2C Marketplace platform. Technologies: Next.js, Supabase, Docker, etc.</p>
-
+<p align="left">- Quicksend (Integration with gmail api to send email campaigns). Technologies: FastAPI, Kafka, Docker, etc.</p>
 ###
 
 <h3 align="left">🌟  Team</h3>
